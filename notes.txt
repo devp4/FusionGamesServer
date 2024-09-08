@@ -1,0 +1,1 @@
+Need to check if admin left then reassign random player in room as admin (first one in list)
